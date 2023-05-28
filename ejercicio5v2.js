@@ -4,7 +4,6 @@ for (let i = 2; i <= 30; i++) {
   numero.push(i);
 }
 
-console.log(numero);
 
 for (let i = 0; i < numero.length; i++) {
     numero[i] += 1;
